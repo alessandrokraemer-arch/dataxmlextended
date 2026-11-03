@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="umlancamento.xsl"?>
+<iprfml>
+<pago valor="1000"/>
+<pago valor="3000"/>
+<pago valor="2000"/>
+<pago valor="10000"/>
+<pago valor="5000"/>
+<pago valor="1500"/>
+<pago valor="1000"/>
+</iprfml>
